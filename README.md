@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AtheerAllogamani
 - 👀 I’m interested in building a positive community!
-- 🌱 I’m currently learning data science.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to share my progress with you all!
